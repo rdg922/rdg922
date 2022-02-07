@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Working on a programming competition site for my high school 
-- 🌱 Learning React, Express, Firebase
+- 🌱 Learning Rust, Go, and AWS
 - 👯 Looking to collaborate on small game jams or web projects!
-- 🤔 Need help with CSS, CI/CD, Docker
-- 📫 How to reach me: rdg922 (at) gmail.com
+- 🤔 Currently Learning, CI/CD and Docker
+- 📫 How to reach me: rohit.dasgupta922 (at) gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play guitar and would say I'm pretty good😎
+- ⚡ Fun fact: I play classical guitar and like Bossa Nova 😎
